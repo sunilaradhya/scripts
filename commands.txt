@@ -1,0 +1,410 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  lsd
+    5  ls
+    6  pwd
+    7  ls -l
+    8  ll
+    9  ls -lrt
+   10  clear
+   11  mkdir temp1 temp2
+   12  touch file1.txt file2.txt
+   13  ls
+   14  vi file1.txt 
+   15  ls
+   16  cat fil1.txt
+   17  cat file1.txt 
+   18  ls
+   19  vi file2.txt 
+   20  ls
+   21  pwd
+   22  ls -lrt
+   23  ls -lt
+   24  ll
+   25  echo "hi"
+   26  echo "hi\nhow are you"
+   27  echo-e "hi\nhow are you"
+   28  echo -e "hi\nhow are you"
+   29  wc -l file1.txt 
+   30  wc -w file
+   31  wc -w file1.txt 
+   32  wc -c file
+   33  wc -c file1.txt 
+   34  echo "I AM GOOD >>FILE3.TXT
+   35  ls
+   36  echo "I AM GOOD >>FILE3.TXT
+   37  ls
+   38  cat FILE3.TXT 
+   39  clear
+   40  free
+   41  free -h
+   42  more 
+   43  less
+   44  clear
+   45  df -kh
+   46  df -kh .
+   47  du -sh
+   48  du home
+   49  clear
+   50  head -5 file1.txt 
+   51  head -5 file1.txt | tail -1
+   52  ls
+   53  pwd
+   54  mkdir sunil
+   55  ls
+   56  tail -n+2 file1.txt 
+   57  sudo su -
+   58  ls
+   59  pwd
+   60  uname -a
+   61  uname -v
+   62  ls -a
+   63  ls
+   64  history
+   65  vi .bash-history
+   66  ls
+   67  history
+   68  vi .bash-history
+   69  ls
+   70  pwd
+   71  vi . bash_history
+   72  ls
+   73  ping
+   74  clear
+   75  ping ip address
+   76  ping www.google.com
+   77  who
+   78  whoami
+   79  unbame -v
+   80  uname -v
+   81  uname -a
+   82  netsat -a
+   83  netstat -a
+   84  netsat -at
+   85  netstat -at
+   86  netsat -au
+   87  netstat -au
+   88  netstat -l
+   89  hostname
+   90  hostname www.facebook.com
+   91  nslookup facebook.com
+   92  dig google.com
+   93  ls of
+   94  ls -a
+   95  ls
+   96   ssh -i "sunil.pem" ec2-user@ec2-3-93-172-231.compute-1.amazonaws.com
+   97  pwd
+   98  ls
+   99  touch ball rajiv abc apple saravan sai navya 
+  100  ls
+  101  'ls -d?[ab]
+  102   ssh -i "sunil.pem" ec2-user@ec2-3-93-172-231.compute-1.amazonaws.com
+  103  ls
+  104  ls -d?[ab]
+  105  ls
+  106  ls -d?[ab]*
+  107  ls -d ?[ab]*
+  108  ls* | grep -e *a -e *b
+  109  ls * | grep -e *a -e *b
+  110  ls *| grep -e *a -e *b
+  111  ls *|grep -e *a -e *b
+  112  ls *|egrep *a *b
+  113  ls *|egrep *a
+  114  ls *|egrep *b
+  115  ls *|egrep *[ab]
+  116  ls *|egrep [ab]*
+  117  ls -d ?[ab]*
+  118  clear
+  119  ls -d ?[ab]*
+  120  ls
+  121  ls *|egrep *b
+  122  ls *|grep -e *a -e *b
+  123  ls *|egrep *b
+  124  clear
+  125  ls
+  126  ls -d ?[ab]*
+  127  ls
+  128  ls -d ?[ie]*
+  129  ls
+  130  git --version
+  131  pwd
+  132  sudo yum install git
+  133  cler
+  134  clear
+  135  ls
+  136  git --version
+  137  mkdir dev
+  138  cd dev
+  139  ls
+  140  cdv ..
+  141  cd ..
+  142  ls
+  143  cd dev
+  144  pwd
+  145  git init
+  146  clear
+  147  git init
+  148  vi dev.txt
+  149  clear
+  150  cat dev.txt 
+  151  git add dev.txt 
+  152  git config --global user.name "Sunil"
+  153  git config --global user.name "sunilaradhya"
+  154  git config --global user.email "sunilms974@gmail.com"
+  155  git status
+  156  clear
+  157  git branch -M main
+  158  git remote add origin https://github.com/sunilaradhya/dev.git
+  159  git push -u origin main
+  160  git pull https://github.com/sunilaradhya/dev.git
+  161  ls
+  162  cat dev.txt 
+  163  git fetch
+  164  ls
+  165  cat dev.txt 
+  166  git log
+  167  git merge origin/main
+  168  ls
+  169  cat dev.txt 
+  170  git status
+  171  ls
+  172  clear
+  173  git HEAD
+  174  ls
+  175  cd dev
+  176  git init
+  177  git HEAD
+  178  git reset HEAD
+  179  ls
+  180  ls
+  181  pwd
+  182  cd dev
+  183  git init'
+  184  git init
+  185  exit
+  186  clear
+  187  clear
+  188  pwd
+  189  git log
+  190  git branch
+  191  git branch temp1.txt
+  192  git branch
+  193  git checkout temp1.txt 
+  194  vi text2
+  195  ls
+  196  git add text2 
+  197  git commit -m "comit"4
+  198  git remote add origin https://github.com/sunilaradhya/dev.git
+  199  git branch
+  200  git branch -M temp1.txt 
+  201  git push -u origin temp1.txt 
+  202  vi l
+  203  ls
+  204  cd dev
+  205  ls
+  206  vi leapyear.sh 
+  207  LS
+  208  ls
+  209  cd dev
+  210  ls
+  211  vi leapyear.sh 
+  212  ls
+  213  cd dev
+  214  ls
+  215  vi leapyear.sh 
+  216  cat leapyear.sh 
+  217  pwd
+  218  sh leapyear.sh 2003
+  219  sh leapyear.sh 
+  220  vi leapyear.sh 
+  221  clear
+  222  sh leapyear.sh 
+  223  vi leapyear.sh 
+  224  chmod u+x leapyear.sh 
+  225  ls -lt
+  226  ./leapyear.sh 
+  227  vi leapyear.sh 
+  228  ./leapyear.sh 
+  229  ls
+  230  cd dev
+  231  git init
+  232  git reset HEAD
+  233  git status
+  234  cat dev.txt 
+  235  git branch
+  236  git add text2 
+  237  ls
+  238  git log
+  239  cd dev
+  240  ls
+  241  git log
+  242  git pull origin/temp1.txt
+  243  git piull text4
+  244  git pull
+  245  ls
+  246  cat text2 
+  247  ls
+  248  ls -ll
+  249  clear
+  250  vi leapyear.sh
+  251  sh leapyear.sh 
+  252  vi leapyear.sh 
+  253  ls
+  254  sh leapyear.sh 
+  255  vi leapyear.sh 
+  256  sh leapyear.sh 
+  257  chmod u+x leapyear.sh 
+  258  ls
+  259  ls -lrt
+  260  ./leapyear.sh 2000
+  261  ./leapyear.sh 2003
+  262  vi leapyear.sh 
+  263  ls
+  264  vi script.txt
+  265  ls
+  266  df -kh .
+  267  df -kh . |awk -f " " 'print{$NF}
+  268  df -kh .
+  269  df -kh . |awk -f " " 'print{$NF}'
+  270  df -kh . |awk -f " " '{print $NF}'
+  271  df -kh . |awk -F " " '{print $NF}'
+  272  df -kh . |awk -F " " '{print $(NF-1)}'
+  273  df -kh . |awk -F " " '{print $(NF-1)}'|tail-1
+  274  df -kh . |awk -F " " '{print $(NF-1)}'|tail -1
+  275  date
+  276  hwclock -r
+  277  hwclock --show
+  278  sudo hwclock --show --verbose
+  279  sudo hwclock --show
+  280  date -s "20 jul 2022 06:00:00"
+  281  sudo date -s "20 jul 2022 06:00:00"
+  282  date
+  283  pwd
+  284  cd h
+  285  sudo yum update
+  286  clear
+  287  ls
+  288  sudo su -
+  289  pwd
+  290  passwd ec2-user
+  291  sudo su -
+  292  exit
+  293  sudo su -
+  294  exit
+  295  ls
+  296  pwd
+  297  ls -lrt
+  298  clear
+  299  pwd
+  300  pwd
+  301  ls
+  302  sudo su -
+  303  pwd
+  304  clear
+  305  sudo su -
+  306  sudo -i
+  307  pwd
+  308  sudo su -
+  309  sudo -i
+  310  exit
+  311  pwd
+  312  ls
+  313  ssh ec2-user@44.204.12.152
+  314  pwd
+  315  ls
+  316  ssh ec2-user@44.204.12.152
+  317  ssh-keygen
+  318  pwd
+  319  ssh -i "sunil.pem" ec2-user@ec2-44-204-12-152.compute-1.amazonaws.com
+  320  pwd
+  321  ls
+  322  sudo su -
+  323  pwd
+  324  ls
+  325  sudo su -
+  326  exit
+  327  sudo yum update
+  328  clear
+  329  pwd
+  330  ls
+  331  jenkins -version
+  332  clear
+  333  ps -ef | grep jenkins
+  334  systemctl start jenkins
+  335  systemctl stop jenkins
+  336  sudo systemctl stop jenkins
+  337  ps -ef | grep jenkins
+  338  sudo systemctl stop jenkins
+  339  ps -ef | grep jenkins
+  340  sudo systemctl start jenkins
+  341  ps -ef | grep jenkins
+  342  sudo su -
+  343  exir
+  344  exit
+  345  sudo su -
+  346  exit
+  347  sudo su -
+  348  ls
+  349  ls -lrt
+  350  ps -ef | grep jenkins
+  351  systemctl start jenkins
+  352  sudo systemctl start jenkins
+  353  ps -ef | grep jenkins
+  354  ls
+  355  pwd
+  356  sudo su -
+  357  pwd
+  358  ls
+  359  mkdir scripts
+  360  ls
+  361  cd scripts
+  362  ls
+  363  vi halfpyramid.sh
+  364  sh halfpyramid.sh 
+  365  vi halfpyramid.sh 
+  366  sh halfpyramid.sh 
+  367  vi hlfnumpyramid.sh
+  368  sh hlfnumpyramid.sh 
+  369  vi hlfnumpyramid.sh
+  370  sh hlfnumpyramid.sh 
+  371  vi hlfnumpyramid.sh
+  372  sh hlfnumpyramid.sh 
+  373  clear
+  374  vi invnumpyramid.sh
+  375  sh invnumpyramid.sh
+  376  ls
+  377  ls -lrt
+  378  vi pyramid.sh
+  379  sh pyramid.sh
+  380  bash -x pyramid.sh 
+  381  ls
+  382  cd sripts
+  383  ls
+  384  cd scriptrs
+  385  cd scripts
+  386  ls
+  387  ll
+  388  pwd
+  389  ls
+  390  cd scripts
+  391  ls
+  392  vi bubblesort.sh
+  393  sh bubblesort.sh 
+  394  ls
+  395  cd scripts
+  396  ls
+  397  git add *
+  398  git commit -m "adding scripts"
+  399  git branch -M main
+  400  git remote add origin https://github.com/sunilaradhya/scripts.git
+  401  git push -u origin main
+  402  pwd
+  403  cd ..
+  404  history
+  405  pwd
+  406  clear
+  407  pwd
+  408  history
+  409  clear
+  410  history > commands.txt
